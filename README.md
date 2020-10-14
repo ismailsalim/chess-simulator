@@ -1,5 +1,4 @@
 # Chess Simulator
-
 A program that simulates and manages chess games. It accept moves in the format (source square, destination square), where a square is referred to using a letter in the range A-H and a number in the range 1-8. It validates each move and keeps track of the state of the game, detecting when the game is over and producing appropriate output to the user.
 
 ## Example 
@@ -20,15 +19,30 @@ The specific game which is simulated in the main function found in ChessMain.cpp
 
 ### Output
 A new chess game is started!
+
+
 White’s Pawn moves from E2 to E4
+
 Black’s Pawn moves from E7 to E6
+
+
 White’s Pawn moves from D2 to D4
+
 Black’s Pawn moves from D7 to D5
+
+
 White’s Knight moves from B1 to C3
+
 Black’s Bishop moves from F8 to B4
+
+
 White’s Bishop moves from F1 to D3
+
 Black’s Bishop moves from B4 to C3 taking White’s Knight
+
 White is in check
+
+
 White’s Pawn moves from B2 to C3 taking Black’s Bishop
 Black’s Pawn moves from H7 to H6
 White’s Bishop moves from C1 to A3
