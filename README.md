@@ -19,7 +19,7 @@ The specific game which is simulated in the main function found in ChessMain.cpp
 10. Qxe6+ fxe6
 11. Bg6#
 
-### The Output
+### Output
 A new chess game is started!
 It is not Black’s turn to move!
 There is no piece at position D4!
