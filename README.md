@@ -1,6 +1,8 @@
 # Chess Simulator
 A program that simulates and manages chess games. It accept moves in the format (source square, destination square), where a square is referred to using a letter in the range A-H and a number in the range 1-8. It validates each move and keeps track of the state of the game, detecting when the game is over and producing appropriate output to the user.
 
+# CURRENTLY CONTAINS A BUG
+
 ## Example 
 The specific game which is simulated in the main function found in ChessMain.cpp is a short game played between Alexander Alekhine, and his opponent Vasic in 1931. In algebraic chess notation, the game played out as follows:
 
