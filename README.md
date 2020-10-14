@@ -20,17 +20,17 @@ The specific game which is simulated in the main function found in ChessMain.cpp
 ### Output
 A new chess game is started!
 
-1. White’s Pawn moves from E2 to E4
-1. Black’s Pawn moves from E7 to E6
+White’s Pawn moves from E2 to E4
 
-2. White’s Pawn moves from D2 to D4
-2. Black’s Pawn moves from D7 to D5
+Black’s Pawn moves from E7 to E6
 
+White’s Pawn moves from D2 to D4
+
+Black’s Pawn moves from D7 to D5
 
 White’s Knight moves from B1 to C3
 
 Black’s Bishop moves from F8 to B4
-
 
 White’s Bishop moves from F1 to D3
 
@@ -38,19 +38,32 @@ Black’s Bishop moves from B4 to C3 taking White’s Knight
 
 White is in check
 
-
 White’s Pawn moves from B2 to C3 taking Black’s Bishop
+
 Black’s Pawn moves from H7 to H6
+
 White’s Bishop moves from C1 to A3
+
 Black’s Knight moves from B8 to D7
+
 White’s Queen moves from D1 to E2
+
 Black’s Pawn moves from D5 to E4 taking White’s Pawn
+
 White’s Bishop moves from D3 to E4 taking Black’s Pawn
+
 Black’s Knight moves from G8 to F6
+
 White’s Bishop moves from E4 to D3
+
 Black’s Pawn moves from B7 to B6
+
 White’s Queen moves from E2 to E6 taking Black’s Pawn
+
 Black is in check
+
 Black’s Pawn moves from F7 to E6 taking White’s Queen
+
 White’s Bishop moves from D3 to G6
+
 Black is in checkmate
