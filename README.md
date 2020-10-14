@@ -20,15 +20,11 @@ The specific game which is simulated in the main function found in ChessMain.cpp
 ### Output
 A new chess game is started!
 
+1. White’s Pawn moves from E2 to E4
+1. Black’s Pawn moves from E7 to E6
 
-White’s Pawn moves from E2 to E4
-
-Black’s Pawn moves from E7 to E6
-
-
-White’s Pawn moves from D2 to D4
-
-Black’s Pawn moves from D7 to D5
+2. White’s Pawn moves from D2 to D4
+2. Black’s Pawn moves from D7 to D5
 
 
 White’s Knight moves from B1 to C3
